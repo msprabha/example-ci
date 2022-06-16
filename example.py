@@ -9,6 +9,6 @@ def add(a,b):
       return a-b
     
     def test_subtract(a,b):
-      retrn a+b
+      assert subtract(2,3) = -1
       
     
